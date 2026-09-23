@@ -15,19 +15,19 @@ const photos: StudentPhoto[] = [
     group: "К3261",
   },
   {
-    src: "/assets/photos/Liza.jpg",
+    src: "/assets/photos/Dasha.jpg",
     lastName: "Яковлева",
     firstName: "Дарья",
     group: "К3261",
   },
   {
-    src: "/assets/photos/Liza.jpg",
+    src: "/assets/photos/Katya.jpg",
     lastName: "Романова",
     firstName: "Екатерина",
     group: "К3261",
   },
   {
-    src: "/assets/photos/Liza.jpg",
+    src: "/assets/photos/Vika.jpg",
     lastName: "Анисимова",
     firstName: "Виктория",
     group: "К3262",
