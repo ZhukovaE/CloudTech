@@ -17,7 +17,7 @@
 ВНИМАНИЕ!!! Все команды выполняются в терминале GitBash.
 1. Склонируйете репозиторий на локальную машину, для чего в терминале GitBash выполните 
     ```bash
-   git clone https://github.com/ZhukovaE/Lab0.git
+   git clone https://github.com/ZhukovaE/CloudTech.git
     ```   
 2. Перейдите в папку ./backend и скопируйте файл .env.example в .env
     ```bash
